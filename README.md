@@ -1,0 +1,1 @@
+# wingide_obsidian
