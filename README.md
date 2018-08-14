@@ -1,3 +1,7 @@
+screenshot
+==========================
+![ScreenShot](/Obsidian.png)
+
 Installation
 ==========================
 1. Copy the obsidian.plt file into the `Wing IDE/resources/palettes` folder.
