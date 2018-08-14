@@ -1,0 +1,101 @@
+default.fore: #E0E2E4
+default.back: #293134
+default.bold: 
+default.italic: 
+default.eolfilled: 
+commentline.fore: #66747b
+commentline.back: 
+commentline.bold: 
+commentline.italic: 
+commentline.eolfilled: 
+number.fore: #FFCD22
+number.back: 
+number.bold: 
+number.italic: 
+number.eolfilled: 
+string.fore: #EC7600
+string.back: 
+string.bold: 
+string.italic: 
+string.eolfilled: 
+character.fore: #FF8409
+character.back: 
+character.bold: 
+character.italic: 
+character.eolfilled: 
+word.fore: #93C763
+word.back: 
+word.bold: 1
+word.italic: 
+word.eolfilled: 
+triple.fore: #66747b
+triple.back: 
+triple.bold: 
+triple.italic: 
+triple.eolfilled: 
+tripledouble.fore: #66747b
+tripledouble.back: 
+tripledouble.bold: 
+tripledouble.italic: 
+tripledouble.eolfilled: 
+#classname.fore: #8DC9E8 
+classname.fore: #678CB1
+classname.back: 
+classname.bold: 1
+classname.italic: 
+classname.eolfilled: 
+defname.fore: #A082BD
+defname.back: 
+defname.bold: 1
+defname.italic: 
+defname.eolfilled: 
+operator.fore: #E8E2B7
+operator.back: 
+operator.bold: 1
+operator.italic: 
+operator.eolfilled: 
+identifier.fore: #E0E2E4
+identifier.back: 
+identifier.bold: 
+identifier.italic: 
+identifier.eolfilled: 
+commentblock.fore: #66747B
+commentblock.back: 
+commentblock.bold: 
+commentblock.italic: 
+commentblock.eolfilled: 
+stringeol.fore: #E0E2E4
+stringeol.back: #E0C0E0
+stringeol.bold: 
+stringeol.italic: 
+stringeol.eolfilled: 1
+word2.fore: #6F90B8
+word2.back: 
+word2.bold: 
+word2.italic: 
+word2.eolfilled: 
+decorator.fore: #FF8BFF
+decorator.back: 
+decorator.bold: 
+decorator.italic: 
+decorator.eolfilled: 
+fstring.fore: #7F007F
+fstring.back: 
+fstring.bold: 
+fstring.italic: 
+fstring.eolfilled: 
+fcharacter.fore: #7F007F
+fcharacter.back: 
+fcharacter.bold: 
+fcharacter.italic: 
+fcharacter.eolfilled: 
+ftriple.fore: #7F0000
+ftriple.back: 
+ftriple.bold: 
+ftriple.italic: 
+ftriple.eolfilled: 
+ftripledouble.fore: #7F0000
+ftripledouble.back: 
+ftripledouble.bold: 
+ftripledouble.italic: 
+ftripledouble.eolfilled: 
